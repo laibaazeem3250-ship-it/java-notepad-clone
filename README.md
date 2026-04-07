@@ -70,18 +70,31 @@
 ## 💡 App Architecture
 NotePad (JFrame)
 ├── JMenuBar
+|     |
+|     |
+|     |
 │     ├── JMenu (File)
+|     |     |
+|     |     |
 │     │     ├── New
 │     │     ├── Open
 │     │     ├── Save
 │     │     ├── Save As
 │     │     └── Exit
+|     |
+|     |
+|     |
 │     └── JMenu (Edit)
 │           ├── Cut
 │           ├── Copy
 │           ├── Paste
 │           └── Select All
+|
+|
+|
 └── JScrollPane
+|
+|
 └── JTextArea (main editor)
 
 ---
