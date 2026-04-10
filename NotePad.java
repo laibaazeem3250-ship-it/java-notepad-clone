@@ -40,6 +40,7 @@ public class NotePad extends JFrame implements ActionListener {
     private void createMenu() {
         menuBar = new JMenuBar();
 
+        
         // File Menu
         fileMenu = new JMenu("File");
         newItem = new JMenuItem("New");
