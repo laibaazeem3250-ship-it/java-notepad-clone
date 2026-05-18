@@ -3,7 +3,6 @@
 > A fully functional Notepad application built from scratch 
 > using Java Swing & OOP principles — inspired by Windows Notepad.
 > Made with ❤️ and weak hands 😄
-
 ---
 
 ## 📸 Screenshots
